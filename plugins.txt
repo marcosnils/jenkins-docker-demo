@@ -18,3 +18,4 @@ github:latest
 maven-plugin:latest
 javadoc:latest
 postbuildscript :latest 
+jackson2-api:latest
